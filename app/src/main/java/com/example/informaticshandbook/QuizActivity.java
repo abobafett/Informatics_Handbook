@@ -94,12 +94,12 @@ public class QuizActivity extends AppCompatActivity {
                                 if (answer.equals("48")) {
                                     rightAnswers++;
                                 }
+                                nextQuesButton.setText("Сдать тест");
                                 answerEditText.setText("");
                                 quizTagView.setText("Вопрос 5");
                                 questionTextView.setText("Как число CDXIV будет записано в десятичной системе счисления?");
                                 break;
                             case 5:
-                                nextQuesButton.setText("Сдать тест");
                                 answer = String.valueOf(answerEditText.getText());
                                 if (answer.equals("414")) {
                                     rightAnswers++;
