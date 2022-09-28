@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/graficheskie_izobrazheniya_v_documentah.txt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/oformlenie_saita.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/razmeshenie_saita_v_internete.txt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/shestnadcatirichnaya_sistema.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/soderzhanie_i_struktura_saita.txt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/vosmirichnaya_sistema.txt" charset="UTF-8" />
+  </component>
+</project>
